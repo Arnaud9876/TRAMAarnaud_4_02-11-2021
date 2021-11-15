@@ -9,8 +9,8 @@ body {
 
 /*--Ma correction des elements--*/
 
-.black {
-    color: black;
+.bold {
+    font-weight: bold;
 }
 
 .navbar-brand {
@@ -583,7 +583,7 @@ a[data-lightbox]:hover img {
 h1, h2, h3, h4, h5, h6, p, label, .btn, a {
     font-family: "helvetica";
     font-weight: 400;
-    color: #575757!important;
+    color: black!important;
 }
 
 .container {
@@ -609,7 +609,7 @@ h1, h2, h3, h4, h5, h6, p, label, .btn, a {
 }
 
 p {
-    font-size: 11px;
+    font-size: 13px;
 }
 
 .tight-width-whitespace {
@@ -667,8 +667,8 @@ h4 {
     margin-top: 24px;
 }
 
-.white {
-    color: #FFFFFF!important;
+.black {
+    color: black!important;
 }
 
 .portfolio-thumb {
@@ -707,7 +707,7 @@ h4 {
 }
 
 .tc-white {
-    color: #F3976C!important;
+    color: black!important;
 }
 
 .btn-atomic-tangerine {
