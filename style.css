@@ -9,6 +9,10 @@ body {
 
 /*--Ma correction des elements--*/
 
+*:focus {
+    border: 3px solid red;
+}
+
 .bold {
     font-weight: bold;
 }
